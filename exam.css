@@ -1,0 +1,51 @@
+
+.headline{
+    background-color: gray;
+    border: 5px black solid;
+    display: flex;
+    padding: 10px;
+    font-size: 20px;
+    justify-content: space-between;
+    border-radius: 8px;
+  
+}
+.headline i{
+    color: black;
+    font-size: 50px;
+
+}
+.title h1{
+   text-align: center;
+}
+.chicken{
+    width: 1000px;
+    height: 400px;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    margin: 0 20%;
+   
+    padding: 50px;
+    flex: 1;
+    position: relative;
+    
+}
+.chicken .chic{
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+   
+   
+}
+.chicken .beff{
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+   
+}
+.chicken .sushi{
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+   
+}
